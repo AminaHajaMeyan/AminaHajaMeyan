@@ -14,7 +14,7 @@
 
 🌱 I’m currently learning **NoteJs,Angular**
 
-💬 Ask me about **Python,Java**
+💬 Ask me about **Python,Java,Spring boot, Figma**
 
 ⚡ Fun fact **I Think I'm funny**
 
